@@ -1,0 +1,208 @@
+[
+    {
+      "name": "Lionel Messi",
+      "category": "PERSON",
+      "frequency": 1,
+      "topic": "fútbol",
+      "apellido": "Messi",
+      "titulo": "Futbolista"
+    },
+    {
+      "name": "Elon Musk",
+      "category": "PERSON",
+      "frequency": 1,
+      "topic": "internacional",
+      "apellido": "Musk",
+      "titulo": "Empresario"
+    },
+    {
+      "name": "Joe Biden",
+      "category": "PERSON",
+      "frequency": 1,
+      "topic": "internacional",
+      "apellido": "Biden",
+      "titulo": "Político"
+    },
+    {
+      "name": "Donald Trump",
+      "category": "PERSON",
+      "frequency": 1,
+      "topic": "internacional",
+      "apellido": "Trump",
+      "titulo": "Político"
+    },
+    {
+      "name": "Roger Federer",
+      "category": "PERSON",
+      "frequency": 1,
+      "topic": "tenis",
+      "apellido": "Federer",
+      "titulo": "Tenista"
+    },
+    {
+      "name": "Taylor Swift",
+      "category": "PERSON",
+      "frequency": 1,
+      "topic": "música",
+      "apellido": "Swift",
+      "titulo": "Cantante"
+    },
+    {
+      "name": "2024-12-25",
+      "category": "DATE",
+      "frequency": 1,
+      "topic": "nacional"
+    },
+    {
+      "name": "2023-01-01",
+      "category": "DATE",
+      "frequency": 1,
+      "topic": "nacional"
+    },
+    {
+      "name": "2022-07-04",
+      "category": "DATE",
+      "frequency": 1,
+      "topic": "internacional"
+    },
+    {
+      "name": "Copa Mundial 2022",
+      "category": "EVENT",
+      "frequency": 1,
+      "topic": "fútbol",
+      "fecha": "2022-11-20"
+    },
+    {
+      "name": "Juegos Olímpicos 2024",
+      "category": "EVENT",
+      "frequency": 1,
+      "topic": "internacional",
+      "fecha": "2024-07-26"
+    },
+    {
+      "name": "CES 2025",
+      "category": "EVENT",
+      "frequency": 1,
+      "topic": "internacional",
+      "fecha": "2025-01-07"
+    },
+    {
+      "name": "OpenAI",
+      "category": "ORGANIZATION",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo_organizacion": "Privada",
+      "numero_miembros": 375
+    },
+    {
+      "name": "Microsoft",
+      "category": "ORGANIZATION",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo_organizacion": "Pública",
+      "numero_miembros": 181000
+    },
+    {
+      "name": "Apple",
+      "category": "ORGANIZATION",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo_organizacion": "Pública",
+      "numero_miembros": 154000
+    },
+    {
+      "name": "Google",
+      "category": "ORGANIZATION",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo_organizacion": "Pública",
+      "numero_miembros": 139995
+    },
+    {
+      "name": "NASA",
+      "category": "ORGANIZATION",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo_organizacion": "Gubernamental",
+      "numero_miembros": 17000
+    },
+    {
+      "name": "Lugar Secreto",
+      "category": "PLACE",
+      "frequency": 1,
+      "topic": "nacional",
+      "pais": "Desconocido",
+      "ciudad": "Unknown",
+      "direccion": "Calle Ficticia 123"
+    },
+    {
+      "name": "United States of America",
+      "category": "PLACE",
+      "frequency": 1,
+      "topic": "internacional",
+      "pais": "USA",
+      "ciudad": "N/A",
+      "direccion": "N/A"
+    },
+    {
+      "name": "Russian Federation",
+      "category": "PLACE",
+      "frequency": 1,
+      "topic": "internacional",
+      "pais": "Russia",
+      "ciudad": "N/A",
+      "direccion": "N/A"
+    },
+    {
+      "name": "Silicon Valley",
+      "category": "PLACE",
+      "frequency": 1,
+      "topic": "internacional",
+      "pais": "USA",
+      "ciudad": "N/A",
+      "direccion": "California"
+    },
+    {
+      "name": "Apple iPhone 15",
+      "category": "PRODUCT",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo": "Smartphone",
+      "productor": "Apple Inc."
+    },
+    {
+      "name": "Tesla Model Y",
+      "category": "PRODUCT",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo": "Electric Vehicle",
+      "productor": "Tesla Inc."
+    },
+    {
+      "name": "PlayStation 5",
+      "category": "PRODUCT",
+      "frequency": 1,
+      "topic": "internacional",
+      "tipo": "Game Console",
+      "productor": "Sony"
+    },
+    {
+      "name": "Entidad Ambigua",
+      "category": "OTHER",
+      "frequency": 1,
+      "topic": "nacional"
+    },
+    {
+      "name": "Web 3.0",
+      "category": "OTHER",
+      "frequency": 1,
+      "topic": "internacional"
+    },
+    {
+      "name": "Metaverso",
+      "category": "OTHER",
+      "frequency": 1,
+      "topic": "internacional"
+    }
+  ]
+  
