@@ -7,7 +7,9 @@ workers se los analiza utilizando heurísticas para extraer entidades de interé
 que luego son agrupadas para presentarlas en formato de feed.
 
 ## Instrucciones
-- Instalar Gradle
-- Desde la carpeta root del programa, ejecutar make run
-- Para calculo de Entidades nombradas ejecutar make run-ne
+- Instalar Java 11
+- Instalar Gradle y ejecutar `make setup`
+- Desde la carpeta root del programa, ejecutar `make build`
+- Para calculo de Entidades nombradas ejecutar `make run-ne`
+- El archivo de salida "ne_stats.txt" contiene el resultado obtenido
 
