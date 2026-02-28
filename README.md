@@ -7,7 +7,7 @@ workers se los analiza utilizando heurísticas para extraer entidades de interé
 que luego son agrupadas para presentarlas en formato de feed.
 
 ## Instrucciones
-- Instalar Java 11
+- Instalar Java 11 y configurar variables de entorno **JAVA_HOME** y **PATH** 
 - Instalar Gradle y ejecutar `make setup`
 - Desde la carpeta root del programa, ejecutar `make build`
 - Para calculo de Entidades nombradas ejecutar `make run-ne`
